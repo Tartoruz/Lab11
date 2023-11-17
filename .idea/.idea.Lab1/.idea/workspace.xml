@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d81997e-9c82-496d-8ba8-2c4771fb3766" name="Changes" comment="" />
+    <list default="true" id="9d81997e-9c82-496d-8ba8-2c4771fb3766" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700208829330</updated>
       <workItem from="1700209041138" duration="1000" />
-      <workItem from="1700209263241" duration="967000" />
+      <workItem from="1700209263241" duration="1233000" />
     </task>
     <servers />
   </component>

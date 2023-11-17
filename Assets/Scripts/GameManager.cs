@@ -4,7 +4,15 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] private int playerScore;
+    public int PlayerScore
+    {
+        get { return playerScore; }
+        set { playerScore = value; }
+    }
+
+    [SerializeField] private GameObject ballPrefab;
+    [SerializeField] private GameObject[] ballPositions;
     void Start()
     {
         

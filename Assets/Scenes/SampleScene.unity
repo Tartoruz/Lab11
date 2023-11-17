@@ -810,13 +810,13 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 733281556}
-  - {fileID: 392346093}
-  - {fileID: 2028039084}
-  - {fileID: 972771175}
   - {fileID: 1179604160}
-  - {fileID: 1961062907}
-  - {fileID: 479963147}
+  - {fileID: 972771175}
+  - {fileID: 2028039084}
+  - {fileID: 392346093}
   - {fileID: 319658185}
+  - {fileID: 479963147}
+  - {fileID: 1961062907}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1179604159
@@ -916,16 +916,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerScore: 0
-  ballPrefab: {fileID: 0}
+  ballPrefab: {fileID: 7610629031208975552, guid: f22e8341f5915a24c8de31a7d60836dd, type: 3}
   ballPositions:
   - {fileID: 733281555}
-  - {fileID: 392346092}
-  - {fileID: 2028039083}
-  - {fileID: 972771174}
   - {fileID: 1179604159}
-  - {fileID: 1961062906}
-  - {fileID: 479963146}
+  - {fileID: 972771174}
+  - {fileID: 2028039083}
+  - {fileID: 392346092}
   - {fileID: 319658184}
+  - {fileID: 479963146}
+  - {fileID: 1961062906}
 --- !u!4 &1375531543
 Transform:
   m_ObjectHideFlags: 0

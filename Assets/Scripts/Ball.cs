@@ -30,6 +30,7 @@ public class Ball : MonoBehaviour
     private void Awake()
     {
         rd = GetComponent<MeshRenderer>();
+
     }
 
     public void SetColorAndPoint(BallColor col)
@@ -67,6 +68,10 @@ public class Ball : MonoBehaviour
                 break;
             case BallColor.Black :
                 point = 7;
+                rd.material.color = Color.black;
+                break;
+            default:
+                point = 10;
                 rd.material.color = Color.black;
                 break;
         }

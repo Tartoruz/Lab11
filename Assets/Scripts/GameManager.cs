@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private float xInput;
     [SerializeField] private new GameObject camera;
     [SerializeField] private GameObject ballLine;
-    [SerializeField] private TextMeshPro showScore;
+    [SerializeField] private TMP_Text showScore;
         
     public static GameManager Instance;
     void Start()

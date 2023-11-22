@@ -50,7 +50,7 @@ public class GameManager : MonoBehaviour
         {
             StopBall();
         }
-    }
+    } 
 
     private void SetBall(BallColor col, int i)
     {
